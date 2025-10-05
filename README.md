@@ -37,4 +37,4 @@
 
  **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/aman-tiwari-997654383/" target="_blank"><img src="https://img.shields.io/badge/Linked--In-343B45?logo=kofi&logoColor=bluek" height="36" style="margin-right: 8px"></a></p>
