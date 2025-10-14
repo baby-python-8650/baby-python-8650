@@ -1,6 +1,6 @@
 ![👋 Hi, my name is Aman Tiwari](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=baby-python-8650&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=baby-python-8650&label=Profile%30views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
